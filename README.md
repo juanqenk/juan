@@ -1,5 +1,5 @@
-# Web personal de Juan Cuenca Castelló
-¡Sigue las instrucciones a continuación para crear la tuya! 
+# Web personal de Juan Cuenca Castelló.
+¡Sigue las instrucciones a continuación para crear la tuya!
 
 ![Blog](https://github.com/jarrekk/Jalpc/raw/master/readme_files/Jalpc.png)
 
