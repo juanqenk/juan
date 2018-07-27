@@ -1,0 +1,20 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Creación y homologación de senderos didácticos
+  i18n: send
+  img: /static/assets/img/landing/p12.jpg
+  desc: Proyecto realizado durante el año 2012 para la puesta en valor de importantes recursos ambientales de la localidad de Agost. Se homologaron dos senderos nuevos; el sendero geológico y la senda del agua.
+
+- name: Creación de una Base de Datos Ambientales
+  i18n: bda
+  #gh_user: python
+  #repo: cpython
+  img: /static/assets/img/landing/p2.jpg
+  desc: El objetivo del presente proyendo fue la creacción de una base de datos ambientales. <br/><br/>  Las bases de datos nos proporcionan esa nueva posibilidad de acceder en pocos segundos a un elevado número de datos de distinta índole, favoreciendo no solo el diagnóstico, sino también el pronóstico del estado del medio.
+
+- name: Scripts para el estudio de las preteinas
+  i18n: pro
+  #url: https://google.com
+  img: /static/assets/img/landing/p3.png
+  desc: Se han elaborado diferentes scripts para el estudio sistematico de la estructura y función de las proteinas usando el programa de modelado PyMol.

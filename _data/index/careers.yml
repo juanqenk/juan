@@ -1,0 +1,43 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Licenciatura en biología
+    i18n: ua
+  desc:
+    detail: Universidad de Alicante
+    i18n: ua_desc
+  date:
+    detail: 2008
+    i18n: ua_date
+  job:
+    detail: Estudiante. <br/> Destacando en biología ambiental, botánica y biomatemáticas.
+    i18n: ua_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Experto Universitario en Protección de Espacios Naturales en el Ámbito Local
+    i18n: penl
+  desc:
+    detail: Universidad de Alicante
+    i18n: penl_desc
+  date:
+    detail: 2009
+    i18n: penl_date
+  job:
+    detail: <ul> <li> Bases de Gestión de Espacios Naturales Protegidos </li> <li> Herramientas SIG aplicadas a la gestión </li> <li>  Modelos de Gestión y Participación </li> <li> El Monnegre como Paisaje Protegido </li></ul>
+    i18n: penl_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Grado en biotecnología
+    i18n: umh
+  desc:
+    detail: Universidad Miguel Hernandez
+    i18n: umh_desc
+  date:
+    detail: 2018
+    i18n: umh_date
+  job:
+    detail: Estudiante. <br/> Destacando en bioinformática, modelado molecular y estructura y función de proteinas.
+    i18n: umh_job
+  icon: fa-graduation-cap

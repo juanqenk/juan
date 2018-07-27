@@ -1,0 +1,55 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Coordinador de Voluntariado Ambiental
+    i18n: va
+  desc:
+    detail: Ayuntamiento de Agost
+    i18n: va_desc
+  date:
+    detail: 2005 - 2008
+    i18n: va_date
+  job:
+    detail: Vigilancia y Prevención de incendios. <br/> Organización y coordinación de actividades en la naturaleza.
+    i18n: va_job
+  icon: fa-briefcase
+
+- name:
+    detail: Organización y Ponencia en el curso de Voluntariado Ambiental I y II de la Universidad de Alicante
+    i18n: vol
+  desc:
+    detail: Ayuntamiento de Agost, Colegio de Geógrafos y Universidad de Alicante
+    i18n: vol_desc
+  date:
+    detail: 2007
+    i18n: vol_date
+  job:
+    detail: Ponencia de la clase teórica sobre el uso comestible de las Plantas. <br/> <br/> Actividades prácticas:<br/> <br/>  <ul> <li>  Reconocimiento de flora y recogida de plantas comestibles </li>  <li> Elaboración de productos tradicionales </li>  <li> Reconocimiento de infraestructuras hidráulicas </li>  <li>  Reconocimiento de impactos ambientales </li>  </ul>
+    i18n: vol_job
+  icon: fa-briefcase
+
+- name:
+    detail: Técnico municipal en Medio Ambiente
+    i18n: tma
+  desc:
+    detail: Ayuntamiento de Agost
+    i18n: tma_desc
+  date:
+    detail: 2009-2010
+    i18n: tma_date
+  job:
+    detail: Principal responsable del área de medio ambiente de la localidad de Agost. <br/> <br/>  <ul> <li> Creación de una Base de Datos Ambientales </li> <li> Registro de plantas endémicas, raras y amenazadas </li> <li> Catalogación de lugares de interés geológico Restauración de espacios degradados </li> </ul>
+  icon: fa-briefcase
+
+- name:
+    detail: Técnico municipal en Medio Ambiente
+    i18n: tma
+  desc:
+    detail: Ayuntamiento de Agost
+    i18n: tma_desc
+  date:
+    detail: 2011-2012
+    i18n: tma_date
+  job:
+    detail: Principal responsable del área de medio ambiente de la localidad de Agost. <br/> <br/>  <ul> <li> Creación, homologación y puesta en marcha de senderos didácticos </li> <li> Catalogación del patrimonio natural </li> <li> Actividades de educación ambiental </li> </ul>
+  icon: fa-briefcase

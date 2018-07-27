@@ -1,0 +1,97 @@
+# publications section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Monitor Ambiental en VII Feria Artesanal y Gastronómica de Agost
+    i18n: company_a
+  year:
+  authors:
+    detail: Ruta didáctica sobre estructuras hídricas tradicionales.
+    i18n: company_a_authors
+  issue:
+    detail:
+    i18n: company_a_issue
+  impactFactor:
+    detail:
+    i18n: company_a_impactFactor
+  icon: fa-handshake-o
+  doi:
+
+- name:
+    detail: Monitor Ambiental en VIII Feria Artesanal y Gastronómica de Agost
+    i18n: company_a
+  year:
+  authors:
+    detail: Organización de la Exposición de Plantas Útiles de Agost.
+    i18n: company_a_authors
+  issue:
+    detail:
+    i18n: company_a_issue
+  impactFactor:
+    detail:
+    i18n: company_a_impactFactor
+  icon: fa-handshake-o
+  doi:
+
+- name:
+    detail: Monitor Ambiental en IX Feria Artesanal y Gastronómica de Agost
+    i18n: company_a
+  year:
+  authors:
+    detail: Realización de una ruta didáctica con visita al límite K/T y al Yacimiento de la Beata.
+    i18n: company_a_authors
+  issue:
+    detail:
+    i18n: company_a_issue
+  impactFactor:
+    detail:
+    i18n: company_a_impactFactor
+  icon: fa-handshake-o
+  doi:
+
+- name:
+    detail: Monitor Ambiental en X Feria Artesanal y Gastronómica de Agost
+    i18n: company_a
+  year:
+  authors:
+    detail: Jornada con la realización de un sendero Geológico abierto a la participación de los asistentes de la feria.
+    i18n: company_a_authors
+  issue:
+    detail:
+    i18n: company_a_issue
+  impactFactor:
+    detail:
+    i18n: company_a_impactFactor
+  icon: fa-handshake-o
+  doi:
+
+- name:
+    detail: Monitor Ambiental en XI Feria Artesanal y Gastronómica de Agost
+    i18n: company_a
+  year:
+  authors:
+    detail: Realización de la ruta de senderismo ante la señalización del sendero geológico.
+    i18n: company_a_authors
+  issue:
+    detail:
+    i18n: company_a_issue
+  impactFactor:
+    detail:
+    i18n: company_a_impactFactor
+  icon: fa-handshake-o
+  doi:
+
+- name:
+    detail: Colaboración en la organización del Geolodía 2016
+    i18n: company_a
+  year:
+  authors:
+    detail: Organización de un sendero didáctico geológico en Agost.
+    i18n: company_a_authors
+  issue:
+    detail:
+    i18n: company_a_issue
+  impactFactor:
+    detail:
+    i18n: company_a_impactFactor
+  icon: fa-handshake-o
+  doi:

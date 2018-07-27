@@ -1,0 +1,56 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Idiomas
+    i18n: id
+  desc:
+    detail:
+    i18n: id_desc
+  date:
+    detail:
+    i18n: id_date
+  job:
+    detail: <ul> <li> Español </li> <li> Valenciano </li> <li> Inglés </li> </ul>
+    i18n: id_job
+  icon: fa-language
+
+- name:
+    detail: Aptitudes sociales
+    i18n: as
+  desc:
+    detail:
+    i18n: as_desc
+  date:
+    detail:
+    i18n: as_date
+  job:
+    detail: <ul> <li> Espíritu de equipo </li> <li> Buena adaptación a ambientes multiculturales </li> <li> Excelentes capacidades de comunicación </li> </ul>
+    i18n: as_job
+  icon: fa-handshake-o
+- name:
+    detail: Capacidad de organización
+    i18n: co
+  desc:
+    detail:
+    i18n: co_desc
+  date:
+    detail:
+    i18n: co_date
+  job:
+    detail: <ul> <li> Liderazgo (he coordinado actividades para grupos de más de 20 personas) </li> <li> Sentido de la organización </li> <li> Buena experiencia en gestión de proyectos o de equipos </li> </ul>
+    i18n: co_job
+  icon: fa-sitemap
+
+- name:
+    detail: Permiso de conducción
+    i18n: pc
+  desc:
+    detail:
+    i18n: pc_desc
+  date:
+    detail:
+    i18n: pc_date
+  job:
+    detail: B
+    i18n: pc_job
+  icon: fa-car 
